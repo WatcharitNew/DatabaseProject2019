@@ -1,0 +1,23 @@
+{
+  "name": "DatabaseProject2019",
+  "version": "1.0.0",
+  "description": "ShipmentSystemDatabase",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WatcharitNew/DatabaseProject2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WatcharitNew/DatabaseProject2019/issues"
+  },
+  "homepage": "https://github.com/WatcharitNew/DatabaseProject2019#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
